@@ -1,4 +1,4 @@
-#include<stdio.h>
+practice/#include<stdio.h>
     int main() {
       int normalInt = 1000;                    
       double normalDouble = 3.14;                 
